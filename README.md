@@ -1,16 +1,19 @@
-### Hi there 👋
+## My JSON presentation
 
-<!--
-**AndreyArthur/AndreyArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Andrey Arthur Sousa e Silva",
+  "from": "Santos-SP, Brasil",
+  "birth": "dec/17/2005",
+  "developer since": "feb/26/2020",
+  "stack": "JavaScript",
+  "tecnologies": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Sass",
+    "ReactJS",
+    "NodeJS"
+  ]
+}
+```
