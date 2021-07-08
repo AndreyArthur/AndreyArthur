@@ -8,8 +8,7 @@
   "developer_since": "feb/26/2020",
   "languages": [
     "JavaScript",
-    "TypeScript",
-    "PHP"
+    "TypeScript"
   ],
   "tecnologies": [
     "HTML5",
@@ -23,7 +22,10 @@
     "MongoDB",
     "Axios",
     "TypeORM",
-    "ESLint"
+    "ESLint",
+    "Docker",
+    "Docker Compose",
+    "NextJS"
   ]
 }
 ```
