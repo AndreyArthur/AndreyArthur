@@ -1,4 +1,4 @@
-## Hello there, I'm Andrey Arthur, a Typescript web dev and software architecture enthusiast.
+## Hello there, I'm Andrey Arthur, a Web and Systems developer and a computer science enthusiast.
 <div align="center">
   <a href="https://github.com/AndreyArthur">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreyArthur&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
