@@ -1,7 +1,7 @@
 ## Hello there, I'm Andrey Arthur, a Web and Systems developer and a computer science enthusiast.
 <div align="center">
   <a href="https://github.com/AndreyArthur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyArthur&layout=compact&langs_count=6&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyArthur&layout=compact&langs_count=6&theme=github_dark&hide=html,css"/>
   <img align="right" alt="Andrey Profile Picture" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/288695577049432064/3a45a897e4eaf306fb0488ccc0f09c4b.webp?size=600">
 </div>
 <div style="display: inline_block"><br>
